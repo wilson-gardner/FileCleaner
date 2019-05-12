@@ -4,7 +4,7 @@
 <h3>Inspiration</h3>
 <p>The inspiration behind this project was the fact that I was constantly running into the issue that I seemed to keep old files/folders on my PC for too long. This led to me constantly having to remove old files and downloads that I hadn't touched in weeks and even months. I wanted a simple script that I could customize to clear out old files and folders from the directories I wanted (like Downloads). The logic behind using this to clear out files/folders by their last modified time was that if I hadn't used it in a certain amount of time it didn't really matter.</p>
 <br>
-<p><strong>NOTE: This would be disasterous if used incorrectly, for example by giving it a system directory. This should only be used for directories like Downloads that are temporary containers to hold installers and other downloaded data.</strong></p>
+<p style="color: red"><strong>NOTE: This would be disasterous if used incorrectly, for example by giving it a system directory. This should only be used for directories like Downloads that are temporary containers to hold installers and other downloaded data.</strong></p>
 <hr>
 <h3>WISH LIST:</h3>
 <ul>
