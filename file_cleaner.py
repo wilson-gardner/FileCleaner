@@ -42,7 +42,6 @@ def attempt_clear_files(folder):
         print("-> File cleanup complete for {}...".format(folder))
     else:
         print("-> No files to clear.")
-        print("Cancelling.........")
 
 
 def get_obj_path(folder, obj):
