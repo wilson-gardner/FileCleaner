@@ -1,0 +1,1 @@
+python3 D:\\Github\\FileCleaner\\file_cleaner.py
