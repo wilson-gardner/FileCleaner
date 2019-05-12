@@ -7,6 +7,6 @@ NOTE: This would be disasterous if used incorrectly, for example by giving it a 
 
 WISH LIST:
 - Add a GUI to make it more user friendly
---- Allow the user to provide directories in GUI
---- Allow the user to determine wether to run the script on startup, etc.
+    - Allow the user to provide directories in GUI
+    - Allow the user to determine wether to run the script on startup, etc.
 - Add checks to make sure the directory paths are not critical system directories.
